@@ -21,10 +21,8 @@
                     <li><a href="a">Menu 1</a></li>
                     <li><a href="a">Menu 2</a></li>
                     <ul>
-                        <li>
-                            <a href="a">Sub-menu 1</a></li>
-                            <a href="a">Sub-menu 2</a></li>
-                        </li>
+                        <li><a href="a">Sub-menu 1</a></li>
+                        <li><a href="a">Sub-menu 2</a></li>
                     </ul>
                     <li><a href="a">Menu 3</a></li>
                     <li><a href="a">Menu 4</a></li>
