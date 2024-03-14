@@ -38,7 +38,7 @@
     border-radius: 10px;
     padding: 5px;
     position: relative;
-    bottom: 10vw;
+    bottom: 10vw; /*viewport width*/
 }
 
 #search  {
