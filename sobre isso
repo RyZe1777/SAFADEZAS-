@@ -1,0 +1,93 @@
+#main{
+    margin: 0 auto;
+    padding: 0;
+}
+#main .row{
+    width: 100%;
+}
+.row2{
+    width:95%;
+}
+#menu a {
+    display: inline-block;
+    width: 20%;
+    height: 5%;
+    background: green;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 2px;
+    border: 2px solid black
+}
+
+#main ul li{
+    padding-left: 10px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+
+#header{
+    display: inline-block;
+    width: 100%;
+}
+
+#Procurar{
+    display: inline-block;
+    width: 23px;
+    border-radius: 10px;
+    padding: 5px;
+    position: relative;
+    bottom: 10vw; /*viewport width*/
+}
+
+#search  {
+    width: 350px;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 1400px;  
+    top: 10%;
+    position: relative;
+    bottom: 10vw;
+}
+
+.col3{
+    display: inline;
+    width: 95%;
+    padding: 25%;
+    position: relative;
+    left: 30%;
+    bottom: 15vw;
+}
+
+.col1{
+    display: block;
+    position: relative;
+    left: 50%;
+    bottom: 25vw;
+}
+
+footer{
+    background: white;
+    color: black;
+    margin-top: 2%;
+    font-size: large;
+}
+
+.link1{
+    position: relative;
+    left: 95%;
+    bottom: 20%;
+}
+
+.link{
+    position: relative;
+    left: 45%;
+    bottom: 20vw;
+    margin-left: 170px;
+}
+.sporting{
+    position: relative;
+    left: 49%;
+    bottom: 20vw;
+}
